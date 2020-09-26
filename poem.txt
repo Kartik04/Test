@@ -3,9 +3,5 @@ bbf
 sggsdg
 +Green
 sgdsgds
-dsfdcxxz
-gbfd
-xcasd
-+Yellow
-This is the 1st new line for my branch1
+
 This is the 2nd new line for my branch1
