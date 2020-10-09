@@ -5,3 +5,4 @@ sggsdg
 sgdsgds
 
 This is the 2nd new line for my branch1
+Today is Friday.
